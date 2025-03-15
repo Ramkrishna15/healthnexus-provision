@@ -3,7 +3,7 @@ import Navbar from "@/components/layout/Navbar";
 import Footer from "@/components/layout/Footer";
 import { Button } from "@/components/ui/button";
 import { Link } from "react-router-dom";
-import { CheckCircle, Heart, Clock, Search, Shield, Award } from "lucide-react";
+import { CheckCircle, Heart, Clock, Search, Shield, Award, Users } from "lucide-react";
 
 const About = () => {
   return (
