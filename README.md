@@ -10,7 +10,7 @@ There are several ways of editing your application.
 
 **Use Lovable**
 
-Simply visit the [Lovable Project](https://lovable.dev/projects/24565646-add7-4eca-ac46-fe7e5b6655ca) and start prompting.
+Simply visit the (https://www.ramkrishnalamichhane.com.np/) and start prompting.
 
 Changes made via Lovable will be committed automatically to this repo.
 
@@ -24,7 +24,7 @@ Follow these steps:
 
 ```sh
 # Step 1: Clone the repository using the project's Git URL.
-git clone <YOUR_GIT_URL>
+git clone <(https://www.ramkrishnalamichhane.com.np/)>
 
 # Step 2: Navigate to the project directory.
 cd <YOUR_PROJECT_NAME>
