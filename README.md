@@ -2,7 +2,7 @@
 
 ## Project info
 
-**URL**: https://lovable.dev/projects/24565646-add7-4eca-ac46-fe7e5b6655ca
+**URL**: https://(https://www.healthcarenepal.com.np/)
 
 ## How can I edit this code?
 
@@ -18,7 +18,7 @@ Changes made via Lovable will be committed automatically to this repo.
 
 If you want to work locally using your own IDE, you can clone this repo and push changes. Pushed changes will also be reflected in Lovable.
 
-The only requirement is having Node.js & npm installed - [install with nvm](https://github.com/nvm-sh/nvm#installing-and-updating)
+The only requirement is having Node.js & npm installed - [install with nvm](https:[//www.healthcarenepal.com.np/)
 
 Follow these steps:
 
